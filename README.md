@@ -3,6 +3,8 @@
 ## Introduction
 SecurityGuardianAI is a proactive cloud security analysis application aimed to help identify potential security threats and vulnerabilities within the cloud infrastructure. The application should be able to provide real-time monitoring, analysis, and reporting to track any malicious activities that might occur on the cloud server. 
 
+![My Image](https://i.imgur.com/VGgnxAE.png)
+
 ## Features
 - Continuous security auditing and monitoring
     SecurityGuardianAI will provide continuous security auditing and monitoring of your cloud server.

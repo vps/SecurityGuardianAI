@@ -1,4 +1,4 @@
-# SecurityGuardianAI Technical Software Specification
+# ☁ SecurityGuardianAI
 
 ## Introduction
 SecurityGuardianAI is a proactive cloud security analysis application aimed to help identify potential security threats and vulnerabilities within the cloud infrastructure. The application should be able to provide real-time monitoring, analysis, and reporting to track any malicious activities that might occur on the cloud server. 
